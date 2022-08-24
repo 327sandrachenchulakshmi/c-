@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>ConsoleApp1.ue</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Admin\Desktop\EXERCISE.cs" Link="EXERCISE.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\exercise1.cs" Link="exercise1.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\exercise2.cs" Link="exercise2.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\exercise3.cs" Link="exercise3.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\exercise4.cs" Link="exercise4.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\exercise5.cs" Link="exercise5.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\exercise6.cs" Link="exercise6.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\negelements.cs" Link="negelements.cs" />
+  </ItemGroup>
+
+</Project>
